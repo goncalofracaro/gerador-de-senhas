@@ -12,6 +12,7 @@ CSS: Estilização e layout responsivo.
 JavaScript: Lógica para geração de senhas aleatórias e interações.
 
 gerador-de-senhas/
+
 ├── index.html      
 ├── styles.css      
 ├── script.js      
